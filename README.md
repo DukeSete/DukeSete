@@ -1,6 +1,6 @@
 <img src = "giphy (1).gif" width = "325px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+# 🤖 Olá, bom ter você por aqui!🎮 👨‍💻
   <div id="badges">
   <a href = "https://github.com/risoflorais">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -27,6 +27,6 @@ Estou aprendendo e Desenvolvendo minhas habilidades, .
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DukeSete&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=DukeSete&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
