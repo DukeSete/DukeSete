@@ -1,4 +1,4 @@
-<img src = "adicionado o banner.gif" width = "325px" align = "right">
+<img src = "giphy (1).gif" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
