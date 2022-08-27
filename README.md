@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "adicionado o banner.gif" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
@@ -9,10 +9,9 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Estou aprendendo e Desenvolvendo minhas habilidades, .
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
+- ❤ Estudante de engenharia da computacao
 - 👩‍💻 Aprendendo algo sobre back-end
 
 <div>
